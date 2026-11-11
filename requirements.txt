@@ -1,0 +1,4 @@
+# Dépendances d'exécution des scripts du projet
+numpy
+# >= 4.7 : 6_plateau.py et 3_Detecter_tag.py utilisent cv2.aruco.ArucoDetector (apparu en 4.7)
+opencv-python>=4.7
