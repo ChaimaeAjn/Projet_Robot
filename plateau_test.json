@@ -1,0 +1,11 @@
+{
+  "dictionnaire": "DICT_4X4_50",
+  "references": {
+    "0": [24.6, 24.6],
+    "1": [237.6, 24.6],
+    "2": [237.6, 172.0],
+    "3": [24.6, 172.0]
+  },
+  "hauteurs_mm": {},
+  "hauteur_par_defaut_mm": 0
+}
